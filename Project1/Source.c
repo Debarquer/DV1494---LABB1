@@ -1,6 +1,13 @@
 #include <stdio.h>
 #include <math.h>
 
+/*
+ASSIGNMENS REMAINING
+#6
+TODO/PROBLEMS:
+NEGATIVE NUMBER IN SQRT.
+*/
+
 void printName(char* name, int age);
 void rectangle(int side1, int side2);
 void penceConverter(int inPence);
@@ -9,11 +16,12 @@ void root(int a, int b, int c, int d);
 
 main()
 {
+
 	//printName("Nich", 19);
 	//rectangle(2, 4);
 	//penceConverter(1026);
 	//pencePayConverter(3, 9, 3, 5);
-	root(4, -12, 1, -3);
+	//root(4, -12, 1, -3);
 
 	getchar();
 }
